@@ -12,15 +12,15 @@
 - [Acknowledgements](#-acknowledgements)
 
 ## 🌟 Project Overview
-This repository serves as the main hub for all projects and tasks completed during my **Web Development Internship** at Codveda Technology. It demonstrates my progression from basic web development concepts to intermediate-level implementations.
+This repository serves as the main hub for all projects and tasks completed during my **Python Development Internship** at Codveda Technology. It demonstrates my progression from basic Python development concepts to advanced-level implementations.
 
 ## 📈 Tasks Progress
 ### Level 1: Foundation
 | Task | Description | Status | Tech Stack |
 |------|-------------|--------|------------|
-| 1 | [Simple_calculator](Simple_calculator.py) | ✅ Completed | Python,vscode |
-| 2 | [YuriDev Portfolio - Responsive Showcase](./Level-Basic/Task2) | ✅ Completed | HTML, CSS, Tailwind, CSS Grid |
-| 3 |[YuriDev Portfolio - Responsive Showcase](./Level-Basic/Task3) | ✅ Completed | HTML, CSS, Tailwind, JavaScript |
+| 1 | [Simple_calculator](Simple_calculator.py) | ✅ Completed | Python,Command Line Interface (CLI),Error Handling |
+| 2 | [To-Do List Application](todo.py) | ✅ Completed | Python,JSON (or CSV),OS module,Command Line Interface (CLI),Error Handling |
+| 3 |[Django Web Application with Authentication](./Level-Basic/Task3) | ✅ Completed | Python,Django,Django Authentication System,HTML,CSS,Bootstrap |
 
 ## 💻 Technologies Used
 ### Core Technologies
