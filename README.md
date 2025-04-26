@@ -1,0 +1,49 @@
+# Codveda Technology Internship Portfolio 🚀
+
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+> Official repository documenting my internship journey at Codveda Technology
+
+## 📌 Table of Contents
+- [Project Overview](#-project-overview)
+- [Tasks Progress](#-tasks-progress)
+- [Technologies Used](#-technologies-used)
+- [License](#-license)
+- [Acknowledgements](#-acknowledgements)
+
+## 🌟 Project Overview
+This repository serves as the main hub for all projects and tasks completed during my **python Development Internship** at Codveda Technology. It demonstrates my progression from basic python development concepts to intermediate-level implementations.
+
+## 📈 Tasks Progress
+### Level 1: Foundation
+| Task | Description | Status | Tech Stack |
+|------|-------------|--------|------------|
+| 1 | [SkyCanvas - Interactive Landing Page](./Level-Basic/Task1) | ✅ Completed | HTML, CSS, Tailwind |
+| 2 | [YuriDev Portfolio - Responsive Showcase](./Level-Basic/Task2) | ✅ Completed | HTML, CSS, Tailwind, CSS Grid |
+| 3 |[YuriDev Portfolio - Responsive Showcase](./Level-Basic/Task3) | ✅ Completed | HTML, CSS, Tailwind, JavaScript |
+
+## 💻 Technologies Used
+### Core Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools & Utilities
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgements
+- [Codveda Technology](https://codveda.com) for the internship opportunity
+- Mentors and technical advisors
+- Open source community for valuable resources
+
+---
+
+**Connect with Me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yurida-zani-b35321211/)
+
+> "The only way to learn is to do." - Paul Graham | © 2025 Codveda Internship Program
