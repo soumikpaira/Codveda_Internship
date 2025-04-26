@@ -18,9 +18,9 @@ This repository serves as the main hub for all projects and tasks completed duri
 ### Level 1: Foundation
 | Task | Description | Status | Tech Stack |
 |------|-------------|--------|------------|
-| 1 | [Simple calculator](Simple_calculator.py) | ✅ Completed | HTML, CSS, Tailwind |
-| 2 | [YuriDev Portfolio - Responsive Showcase](./Level-Basic/Task2) | ✅ Completed | HTML, CSS, Tailwind, CSS Grid |
-| 3 |[YuriDev Portfolio - Responsive Showcase](./Level-Basic/Task3) | ✅ Completed | HTML, CSS, Tailwind, JavaScript |
+| 1 | [Simple calculator](Simple_calculator.py) | ✅ Completed | Python, Vs code, Bash |
+| 2 | [To Do App](todo.py) | ✅ Completed | Python, Vscode, Bash |
+| 3 |[Django Web Application with Authentication](./Level-Basic/Task3) | ✅ Completed | Python, Django, SQLite |
 
 ## 💻 Technologies Used
 ### Core Technologies
@@ -44,6 +44,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Connect with Me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yurida-zani-b35321211/)
+[![LinkedIn](www.linkedin.com/in/soumik-paira-120b16291)
 
 > "The only way to learn is to do." - Paul Graham | © 2025 Codveda Internship Program
