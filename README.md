@@ -18,7 +18,7 @@ This repository serves as the main hub for all projects and tasks completed duri
 ### Level 1: Foundation
 | Task | Description | Status | Tech Stack |
 |------|-------------|--------|------------|
-| 1 | [SkyCanvas - Interactive Landing Page](./Level-Basic/Task1) | ✅ Completed | HTML, CSS, Tailwind |
+| 1 | [Simple calculator](Simple_calculator.py) | ✅ Completed | HTML, CSS, Tailwind |
 | 2 | [YuriDev Portfolio - Responsive Showcase](./Level-Basic/Task2) | ✅ Completed | HTML, CSS, Tailwind, CSS Grid |
 | 3 |[YuriDev Portfolio - Responsive Showcase](./Level-Basic/Task3) | ✅ Completed | HTML, CSS, Tailwind, JavaScript |
 
