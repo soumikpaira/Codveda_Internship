@@ -20,7 +20,7 @@ This repository serves as the main hub for all projects and tasks completed duri
 |------|-------------|--------|------------|
 | 1 | [Simple calculator](Simple_calculator.py) | ✅ Completed | Python, Vs code, Bash |
 | 2 | [To Do App](todo.py) | ✅ Completed | Python, Vscode, Bash |
-| 3 |[Django Web Application with Authentication](./Level-Basic/Task3) | ✅ Completed | Python, Django, SQLite |
+| 3 |[Django Web Application with Authentication](Django Web Application with Authentication/django-auth-project-main) | ✅ Completed | Python, Django, SQLite |
 
 ## 💻 Technologies Used
 ### Core Technologies
