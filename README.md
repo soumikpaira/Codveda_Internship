@@ -1,4 +1,4 @@
-# Codveda Technology Internship Portfolio 🚀
+# Codveda Technology Internship 🚀
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
@@ -20,7 +20,7 @@ This repository serves as the main hub for all projects and tasks completed duri
 |------|-------------|--------|------------|
 | 1 | [Simple calculator](Simple_calculator.py) | ✅ Completed | Python, Vs code, Bash |
 | 2 | [To Do App](todo.py) | ✅ Completed | Python, Vscode, Bash |
-| 3 |[Django Web Application with Authentication](Django Web Application with Authentication/django-auth-project-main) | ✅ Completed | Python, Django, SQLite |
+| 3 |[Django Web Application with Authentication](https://github.com/soumikpaira/Codveda_Internship/tree/main/Django%20Web%20Application%20with%20Authentication/django-auth-project-main) | ✅ Completed | Python, Django, SQLite |
 
 ## 💻 Technologies Used
 ### Core Technologies
