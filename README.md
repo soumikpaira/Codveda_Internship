@@ -44,6 +44,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Connect with Me:**  
-[![LinkedIn]([https://www.linkedin.com/in/me/](https://www.linkedin.com/in/soumik-paira-120b16291/))
+[![LinkedIn](https://www.linkedin.com/in/soumik-paira-120b16291/)
 
 > "The only way to learn is to do." - Paul Graham | © 2025 Codveda Internship Program
